@@ -7,7 +7,7 @@
   <groupId>com.github.nikita-volkov.java</groupId>
   <artifactId>djdbc-functional-java</artifactId>
   <packaging>jar</packaging>
-  <version>1</version>
+  <version>1.1</version>
   
   <name>djdbc-functional-java</name>
   <description>Integration of DJDBC with Functional Java</description>
